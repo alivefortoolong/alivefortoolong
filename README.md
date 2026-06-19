@@ -1,4 +1,4 @@
-# ˖⁺‧₊˚🌸 Hello, I'm Rania ♡ ˚₊‧⁺˖
+#˖⁺‧₊˚🌸 Hello, I'm Rania ♡ ˚₊‧⁺˖
 
 <!-- Snake Animation -->
 <div align="center">
