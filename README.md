@@ -1,5 +1,4 @@
-#˖⁺‧₊˚🌸 Hello, I'm Rania ♡ ˚₊‧⁺˖
-
+<h1  align="center">˖⁺‧₊˚🌸 Hello, I'm Rania ♡ ˚₊‧⁺˖</h1> 
 <!-- Snake Animation -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/sitardaniel/sitardaniel/output/github-snake-dark.svg" alt="Snake animation" />
